@@ -1,6 +1,6 @@
-import './App.css';
-import Navbar from './components/NavBar';
-import Homepage from './components/HomePage';
+import "./App.css";
+import Navbar from "./components/NavBar";
+import Homepage from "./components/HomePage";
 
 function App() {
   return (
